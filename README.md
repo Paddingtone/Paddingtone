@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Paddingtone (yes, like the bear)
-- 👀 I’m interested in programming, biology & bioinformatics, language learning and more
+- 👀 I’m interested in programming, chess, art, biology & bioinformatics, language learning and more
 - 🌱 I’m currently learning python! My first programming language :)
